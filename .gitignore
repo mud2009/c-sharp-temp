@@ -1,3 +1,3 @@
 bin/
-object/
+obj/
 .DS_Store
